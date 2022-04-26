@@ -1,6 +1,7 @@
 ---
 layout: page
 title: F-4J Phantom II
+parent: planes
 summary: American two-seater, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber.
 ---
 
@@ -13,7 +14,7 @@ This jet is an american two-seater, twin-engine, all-weather, long-range superso
 
 | Stat | Value |
 |:-----|:-----:|
-| Nationality | 🇺🇸 |
+| Nationality | American |
 | Speed Class | Supersonic |
 | Airbrake | ✔️ |
 | Radar | ✔️ |
@@ -42,5 +43,5 @@ This jet is an american two-seater, twin-engine, all-weather, long-range superso
 **Pilot Controlled**
 
 | Name | Purpose | Details |
-| --- | --- | --- |
-| [AIM-9D Sidewinder]({{ Munitions/air-to-air/AIM-9D_Sidewinder.url }}) | {{ /Munitions/air-to-air/AIM-9D_Sidewinder.purpose }} | {{ /Munitions/air-to-air/AIM-9D_Sidewinder.summary }} |
+| :---: | :---: | :---: |
+| [AIM-9D Sidewinder]({{ site.baseurl }}{% link docs/munitions/air-to-air/AIM-9D_Sidewinder.md %}) | {{ docs/munitions/air-to-air/AIM-9D_Sidewinder.purpose }} | {{ docs/munitions/air-to-air/AIM-9D_Sidewinder.summary }} |
