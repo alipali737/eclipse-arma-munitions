@@ -17,13 +17,9 @@ title: Eclipse Co Arma Docs
 description: >- # this means to ignore newlines until "baseurl:"
   Documentation for the Eclipse Co Arma Boys.
 
-domain: "pages.github.com"
-baseurl: "alipali737/eclipse-arma-munitions" # the subpath of your site, e.g. /blog
-repository: "alipali737/eclipse-arma-munitions"
-url: "https://pages.github.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://alipali737.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
 
 
