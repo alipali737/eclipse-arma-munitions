@@ -34,6 +34,11 @@ This jet is an american two-seater, twin-engine, all-weather, long-range superso
 
 ![F-4J Phantom II Pylons](/assets/F-4J_Phantom_II/pylons.jpg)
 
+| Controller | Number of Pylons |
+| --- | :---: |
+| Pilot | 4
+| Gunner | 9 |
+
 **Pilot Controlled**
 
 | Name | Purpose | Details |
