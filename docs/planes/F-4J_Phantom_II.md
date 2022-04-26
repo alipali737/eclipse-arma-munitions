@@ -45,6 +45,6 @@ This jet is an american two-seater, twin-engine, all-weather, long-range superso
 
 | Name | Purpose | Details |
 | :---: | :---: | :---: |
-| [AIM-9D Sidewinder]({{ site.baseurl }}{% link docs/munitions/air-to-air/AIM-9D_Sidewinder.md %}) | - | - |
+| [AIM-9D Sidewinder]({{ site.baseurl }}/docs/munitions/air-to-air/AIM-9D_Sidewinder.html) | - | - |
 
 
