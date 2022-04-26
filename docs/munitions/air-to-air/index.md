@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Planes
+title: Air-to-Air
+parent: Munitions
 has_children: true
 ---

@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Planes
+title: Munitions
 has_children: true
 ---

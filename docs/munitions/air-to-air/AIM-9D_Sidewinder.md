@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AIM-9D Sidewinder
-purpose: Air-to-Air
+parent: Air-to-Air
 summary: American Infrared homing air-to-air missile
 ---
 

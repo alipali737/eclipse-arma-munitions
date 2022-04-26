@@ -1,7 +1,7 @@
 ---
 layout: page
 title: F-4J Phantom II
-parent: planes
+parent: Planes
 summary: American two-seater, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber.
 ---
 
