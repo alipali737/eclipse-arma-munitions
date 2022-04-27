@@ -51,7 +51,7 @@ This jet is an american two-seater, twin-engine, all-weather, long-range superso
 
 | Pylon Type | Number of Pylons |
 | :---: | :---: |
-{%- assign munition_types = "Air-to-Air, Ground Attack" | split: ", " -%}
+{%- assign munition_types = "Air-to-Air, Ground-Attack" | split: ", " -%}
 {%- for munition_type in munition_types -%}
 {%- assign count = 0 -%}
     {%- for munition in munitions -%}
@@ -68,5 +68,5 @@ This jet is an american two-seater, twin-engine, all-weather, long-range superso
 | :---: | :---: | :---: |
 {% for munition in munitions -%}
 | [{{ munition.title }}]({{ munition.url | relative_url }}) | {{ munition.parent }} | {{ munition.summary }} |
-{%- endfor %}
+{% endfor %}
 

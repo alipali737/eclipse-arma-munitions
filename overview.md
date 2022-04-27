@@ -27,7 +27,7 @@ This documentation contains all the useful knowledge for the arma campaigns.
 
 ## Missiles
 
-{% assign munition_types = "Air-to-Air, Ground Attack" | split: ", " %}
+{% assign munition_types = "Air-to-Air, Ground-Attack" | split: ", " %}
 {% for type in munition_types %}
 | {{ type }} | Summary |
 | :---: | :---: |
