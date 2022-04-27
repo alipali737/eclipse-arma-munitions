@@ -1,44 +1,44 @@
 ---
 layout: page
-title: F-4J Phantom II
+title: <plane-name>
 parent: Planes
-summary: American two-seater, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber.
+summary: <plane-summary>
 ---
 
-# F-4J Phantom II
-This jet is an american two-seater, twin-engine, all-weather, long-range supersonic jet interceptor and fighter-bomber.
+# {{ page.title }}
+<plane-description>
 
-![F-4J Phantom II Top Down]({{ site.baseurl }}/assets/F-4J_Phantom_II/top_down.jpg)
+![{{ page.title }} Top Down]({{ site.baseurl }}/assets/<plane-folder>/top_down.jpg)
 
 ### Vehicle Specifications
 
 | Stat | Value |
 |:-----|:-----:|
-| Nationality | American |
-| Speed Class | Supersonic |
-| Engine Class | Jet |
-| Airbrake | ✔️ |
-| Radar | ✔️ |
-| Seats | 2 |
-| Takeoff Speed | 250 km/h |
-| Landing Speed | 130 km/h |
-| Tailhook | ✔️ |
-| Retract Wings | ✔️ |
+| Nationality | - |
+| Speed Class | - |
+| Engine Class | - |
+| Airbrake | - |
+| Radar | - |
+| Seats | - |
+| Takeoff Speed | 0 km/h |
+| Landing Speed | 0 km/h |
+| Tailhook | - |
+| Retract Wings | - |
 
 # Vehicle Capabilities
 
 | Role | Availability |
 |:-----|:------------:|
-| Fighter | ✔️ |
-| Ground Attack | ✔️ |
-| Bomber | ✔️ |
-| Reconnaissance | ❔ |
-| Transport | ❌ |
-| Cargo | ❌ |
+| Fighter | - |
+| Ground Attack | - |
+| Bomber | - |
+| Reconnaissance | - |
+| Transport | - |
+| Cargo | - |
 
 # Vehicle Pylons
 
-![F-4J Phantom II Pylons]({{ site.baseurl }}/assets/F-4J_Phantom_II/pylons.jpg)
+![{{ page.title }}} Pylons]({{ site.baseurl }}/assets/<plane-folder>/pylons.jpg)
 
 {%- assign munitions = "" | split: "" -%}
 
