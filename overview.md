@@ -33,8 +33,8 @@ This documentation contains all the useful knowledge for the arma campaigns.
 | :---: | :---: |
 {%- assign munitions = site.pages | where:"parent",type -%}
 {%- for munition in munitions %}
-| [{{ munition.title }}]({{ munition.url | relative_url }} | {{ munition.summary }} |
-{% endfor %}
+| [{{ munition.title }}]({{ munition.url | relative_url }}) | {{ munition.summary }} |
+{%- endfor %}
 {% endfor %}
 
 
