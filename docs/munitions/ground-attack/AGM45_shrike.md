@@ -20,7 +20,7 @@ The **AGM-45 Shrike** is an American anti-radiation missile designed to home in 
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Targeting System | Passive radar homing |
 | Lock On Before Launch | ✔️ |
 | Lock On After Launch  | ❌ |

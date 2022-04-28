@@ -20,7 +20,7 @@ The **SUU23/A 20mm Gunpod** is a six-barrel M61 gatling gun. It fires up to 6,00
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Rate of fire | 6000 rpm |
 | Explosive Payload | - |
 | Total Ammunition | 1200 |

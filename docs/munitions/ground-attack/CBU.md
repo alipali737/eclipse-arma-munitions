@@ -21,7 +21,7 @@ The **CBU Series** stands for cluster bomb units. They release smaller submuniti
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Explosive Payload | Varies |
 | Total Ammunition | Varies |
 

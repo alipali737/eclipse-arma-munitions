@@ -11,7 +11,7 @@ used_by: "F-4J Phantom II"
 
 The **AGM-12 Bullpup** is a radar guided air-to-ground missile. Most effective when used against light armoured vehicles. The radar requires the target to be selected within the radar but a lock is not required.
 
-![{{ page.title }}]({{ site.baseurl }}/assets/Munitions/ground-attack/agm12.jpg)
+![{{ page.title }}]({{ site.baseurl }}/assets/Munitions/ground-attack/agm12.png)
 
 | Pros | Cons |
 | :---: | :---: |
@@ -20,7 +20,7 @@ The **AGM-12 Bullpup** is a radar guided air-to-ground missile. Most effective w
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Targeting System | Line of sight radar guided |
 | Lock On Before Launch | ✔️ |
 | Lock On After Launch  | ❌ |

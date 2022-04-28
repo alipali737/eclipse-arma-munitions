@@ -21,7 +21,7 @@ The **Mark 77** is a large air-dropped incendiary bomb carrying a kerosene-based
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Explosive Payload | Kerosene-based fuel mixture |
 | Total Ammunition | Varies |
 | Bomb Weight | 500-2000 lb |

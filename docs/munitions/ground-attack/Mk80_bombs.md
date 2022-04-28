@@ -20,7 +20,7 @@ The **Mk 80 Series** are air-dropped general-purpose bombs intended as a comprom
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Explosive Payload | Varies |
 | Total Ammunition | Varies |
 | Bomb Weight | 250-2,000 lb  |

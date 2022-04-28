@@ -20,7 +20,7 @@ The **M-47 WP** is a very thin metal sheet chemical bomb designed to carry white
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Explosive Payload | White Phosphorus |
 | Total Ammunition | 1 |
 | Bomb Weight | 93 lb |

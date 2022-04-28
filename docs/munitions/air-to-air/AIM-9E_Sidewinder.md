@@ -22,7 +22,7 @@ The **AIM-9E Sidewinder** *(Air Intercept Missile)* is an American Infrared homi
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Targeting System | Infrared "Uncaged" |
 | Lock On Before Launch | ❌ |
 | Lock On After Launch  | ❌ |

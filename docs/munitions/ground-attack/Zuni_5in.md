@@ -21,7 +21,7 @@ The **Zuni 5in** is a unguided folding-fin aircraft rocket that can be used both
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Rate of fire | - |
 | Explosive Payload | Varies |
 | Total Ammunition | x4/x8 |

@@ -13,7 +13,7 @@ summary: <plane-summary>
 ### Vehicle Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Nationality | - |
 | Speed Class | - |
 | Engine Class | - |
@@ -28,7 +28,7 @@ summary: <plane-summary>
 # Vehicle Capabilities
 
 | Role | Availability |
-|:-----|:------------:|
+|:-----:|:------------:|
 | Fighter | - |
 | Ground Attack | - |
 | Bomber | - |

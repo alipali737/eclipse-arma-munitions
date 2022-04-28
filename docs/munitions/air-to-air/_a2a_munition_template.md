@@ -20,7 +20,7 @@ used_by: <used-by>
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Targeting System | - |
 | Lock On Before Launch | ❌ |
 | Lock On After Launch  | ❌ |

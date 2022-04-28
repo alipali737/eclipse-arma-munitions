@@ -21,7 +21,7 @@ The **GBU Series** are precision-guided bombs that require a laser designation. 
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Explosive Payload | Varies |
 | Total Ammunition | Varies |
 | Bomb Weight | 250-2,000 lb  |

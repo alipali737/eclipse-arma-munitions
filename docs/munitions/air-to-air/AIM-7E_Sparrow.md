@@ -22,7 +22,7 @@ The **AIM-7E Sparrow** is a medium-range, semi-active radar homing air-to-air mi
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Targeting System | SARH |
 | Lock On Before Launch | ✔️ |
 | Lock On After Launch  | ❌ |

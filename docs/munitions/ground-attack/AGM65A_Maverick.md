@@ -20,7 +20,7 @@ The **AGM-65A Maverick** is a precision-guided missile effective against a wide 
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Targeting System | Electro-optical guidance |
 | Lock On Before Launch | ✔️ |
 | Lock On After Launch  | ❌ |

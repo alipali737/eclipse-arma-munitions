@@ -20,7 +20,7 @@ used_by: <used-by>
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Rate of fire | - |
 | Explosive Payload | - |
 | Total Ammunition | - |

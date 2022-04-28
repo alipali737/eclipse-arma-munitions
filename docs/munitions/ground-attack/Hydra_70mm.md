@@ -20,7 +20,7 @@ The **Hydra 70mm** is a fin-stabilized unguided *(modern SMART variants are avai
 ### Weapon Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Rate of fire | - |
 | Explosive Payload | Varies |
 | Total Ammunition | Varies |
