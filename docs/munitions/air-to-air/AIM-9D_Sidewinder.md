@@ -17,7 +17,7 @@ The **AIM-9D Sidewinder** *(Air Intercept Missile)* is an American Infrared homi
 | :---: | :---: |
 | Fire and forget | Requires large heat signature of target |
 | Simple use | Can lock the sun or friendlies |
-| | Can be defeated with flares & IRCM |
+| The missile knows where it is... | Can be defeated with flares & IRCM |
 
 ### Weapon Specifications
 
