@@ -9,5 +9,9 @@ url: "https://alipali737.github.io" # the base hostname & protocol for your site
 # Build settings
 remote_theme: pdmosses/just-the-docs@combination-rec-nav
 
+aux_links:
+  "See Source on Github":
+    - "//github.com/alipali737/eclipse-arma-munitions"
+
 toggle_color_scheme: dark
 toggle_auto_mode: true
