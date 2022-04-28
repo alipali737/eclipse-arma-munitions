@@ -15,7 +15,7 @@ The **GBU Series** are precision-guided bombs that require a laser designation. 
 
 | Pros | Cons |
 | :---: | :---: |
-| Have an approx CEP of 30ft | Require a laser designation to be most effective |
+| Have an approx CEP of 30-3.6ft depending on variant | Require a laser designation to be most effective |
 | General purpose with variants for specific tasks | |
 
 ### Weapon Specifications
@@ -32,4 +32,4 @@ The **GBU Series** are precision-guided bombs that require a laser designation. 
 | :--------: | :----: | :------------: |
 | GBU-8 Hobos | 2000 lb | The bomb uses an Image-Contrast guidance kit and control monitor to "lock" the target and the electronic guidance system steers the bomb to the target. |
 | GBU-10 Paveway | 2000 lb | The bomb uses a laser designation system and wings to identify and hit its target |
-| GBU-12 Paveway | 500 lb | The bomb uses a laser designation system and wings to identify and hit its target |
+| GBU-12 Paveway | 500 lb | |
