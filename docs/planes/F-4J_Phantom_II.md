@@ -13,7 +13,7 @@ This jet is an american two-seater, twin-engine, all-weather, long-range superso
 ### Vehicle Specifications
 
 | Stat | Value |
-|:-----|:-----:|
+|:-----:|:-----:|
 | Nationality | American |
 | Speed Class | Supersonic |
 | Engine Class | Jet |
@@ -28,7 +28,7 @@ This jet is an american two-seater, twin-engine, all-weather, long-range superso
 # Vehicle Capabilities
 
 | Role | Availability |
-|:-----|:------------:|
+|:-----:|:------------:|
 | Fighter | ✔️ |
 | Ground Attack | ✔️ |
 | Bomber | ✔️ |
