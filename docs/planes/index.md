@@ -7,9 +7,9 @@ has_toc: false
 
 # Table of Contents
 
-{% assign a2a_pages = site.pages | where:"parent",page.title %}
+{% assign plane_pages = site.pages | where:"parent",page.title %}
 | Name | Summary |
 | :---: | :---: |
-{% for a2a_page in a2a_pages -%}
-| [{{ a2a_page.title }}]({{ a2a_page.url | relative_url }}) | {{ a2a_page.summary }} |
+{% for plane_page in plane_pages -%}
+| [{{ plane_page.title }}]({{ plane_page.url | relative_url }}) | {{ plane_page.summary }} |
 {% endfor %}

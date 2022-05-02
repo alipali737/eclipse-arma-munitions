@@ -4,7 +4,7 @@ title: "Hydra 70mm"
 parent: Ground-Attack
 grand_parent: Munitions
 summary: Fin-stabilized 70mm unguided rocket primarily used in air-to-ground attacks.
-used_by: "F-4J Phantom II, A-1H Skyraider, A-7D Corsair II, O-2A Skymaster, A-6A Intruder"
+used_by: "F-4J Phantom II, A-1H Skyraider, A-7D Corsair II, O-2A Skymaster, A-6A Intruder, AH-1G Cobra"
 ---
 
 # {{ page.title }}
