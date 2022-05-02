@@ -4,7 +4,7 @@ title: AIM-9D Sidewinder
 parent: Air-to-Air
 grand_parent: Munitions
 summary: American Infrared homing air-to-air missile
-used_by: "F-4J Phantom II, A-7D Corsair II"
+used_by: "F-4J Phantom II, A-7D Corsair II, A-6A IntruderI"
 ---
 
 # {{ page.title }}

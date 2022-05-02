@@ -4,7 +4,7 @@ title: "AGM-45 Shrike"
 parent: Ground-Attack
 grand_parent: Munitions
 summary: An American anti-radiation missile designed to home in on hostile anti-aircraft radar.
-used_by: "F-4J Phantom II, A-7D Corsair II"
+used_by: "F-4J Phantom II, A-7D Corsair II, A-6A Intruder"
 ---
 
 # {{ page.title }}

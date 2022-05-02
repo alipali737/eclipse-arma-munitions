@@ -4,7 +4,7 @@ title: "GBU Series"
 parent: Ground-Attack
 grand_parent: Munitions
 summary: Precision-guided munition designed to achieve a smaller circular error probable (CEP).
-used_by: "F-4J Phantom II"
+used_by: "F-4J Phantom II, A-6A Intruder"
 ---
 
 # {{ page.title }}

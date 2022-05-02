@@ -4,7 +4,7 @@ title: "CBU Series"
 parent: Ground-Attack
 grand_parent: Munitions
 summary: Unguided cluster bomb unit
-used_by: "F-4J Phantom II, A-1H Skyraider, A-7D Corsair II, O-2A Skymaster"
+used_by: "F-4J Phantom II, A-1H Skyraider, A-7D Corsair II, O-2A Skymaster, A-6A Intruder"
 ---
 
 # {{ page.title }}

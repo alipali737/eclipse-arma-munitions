@@ -4,7 +4,7 @@ title: "M-47 WP"
 parent: Ground-Attack
 grand_parent: Munitions
 summary: Chemical bomb designed to carry white phosphorus (WP).
-used_by: "F-4J Phantom II, A-1H Skyraider, A-7D Corsair II"
+used_by: "F-4J Phantom II, A-1H Skyraider, A-7D Corsair II, A-6A Intruder"
 ---
 
 # {{ page.title }}
