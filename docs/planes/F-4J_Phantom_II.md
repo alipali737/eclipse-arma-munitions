@@ -18,7 +18,7 @@ This jet is an american two-seater, twin-engine, all-weather, long-range superso
 | Speed Class | Supersonic |
 | Engine Class | Jet |
 | Airbrake | ✔️ |
-| Radar | ✔️ |
+| Active Radar | ✔️ |
 | Seats | 2 |
 | Takeoff Speed | 250 km/h |
 | Landing Speed | 130 km/h |
@@ -69,4 +69,3 @@ This jet is an american two-seater, twin-engine, all-weather, long-range superso
 {% for munition in munitions -%}
 | [{{ munition.title }}]({{ munition.url | relative_url }}) | {{ munition.parent }} | {{ munition.summary }} |
 {% endfor %}
-

@@ -4,7 +4,7 @@ title: "AGM-12 Bullpup"
 parent: Ground-Attack
 grand_parent: Munitions
 summary: A short-range, precision guided air-to-ground missile.
-used_by: "F-4J Phantom II"
+used_by: "F-4J Phantom II, A-1H Skyraider"
 ---
 
 # {{ page.title }}

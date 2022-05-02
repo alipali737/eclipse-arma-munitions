@@ -1,44 +1,44 @@
 ---
 layout: page
-title: <plane-name>
+title: A-1H Skyraider
 parent: Planes
-summary: <plane-summary>
+summary: American piston-engine, single-seat attack aircraft used from 1946 to early 1980s.
 ---
 
 # {{ page.title }}
-<plane-description>
+This aircraft is an old aircraft developed in the 1940s as a single-seat, long-range, high performance dive/torpedo bomber attack aircraft. It is powered by a piston-engine propeller but is still a very capable aircraft for its age.
 
-![{{ page.title }} Top Down]({{ site.baseurl }}/assets/<plane-folder>/top_down.jpg)
+![{{ page.title }} Top Down]({{ site.baseurl }}/assets/A-1H_Skyraider/top_down.jpg)
 
 ### Vehicle Specifications
 
 | Stat | Value |
 |:-----:|:-----:|
-| Nationality | - |
-| Speed Class | - |
-| Engine Class | - |
-| Airbrake | - |
-| Active Radar | - |
-| Seats | - |
-| Takeoff Speed | 0 km/h |
-| Landing Speed | 0 km/h |
-| Tailhook | - |
-| Retract Wings | - |
+| Nationality | American |
+| Speed Class | Subsonic |
+| Engine Class | Propeller |
+| Airbrake | ✔️ |
+| Active Radar | ❌ |
+| Seats | 1 |
+| Takeoff Speed | 100 km/h |
+| Landing Speed | 90 km/h |
+| Tailhook | ✔️ |
+| Retract Wings | ✔️ |
 
 # Vehicle Capabilities
 
 | Role | Availability |
 |:-----:|:------------:|
-| Fighter | - |
-| Ground Attack | - |
-| Bomber | - |
-| Reconnaissance | - |
-| Transport | - |
-| Cargo | - |
+| Fighter | ✔️ |
+| Ground Attack | ✔️ |
+| Bomber | ✔️ |
+| Reconnaissance | ✔️ |
+| Transport | ❌ |
+| Cargo | ❌ |
 
 # Vehicle Pylons
 
-![{{ page.title }}} Pylons]({{ site.baseurl }}/assets/<plane-folder>/pylons.jpg)
+![{{ page.title }}} Pylons]({{ site.baseurl }}/assets/A-1H_Skyraider/pylons.jpg)
 
 {%- assign munitions = "" | split: "" -%}
 

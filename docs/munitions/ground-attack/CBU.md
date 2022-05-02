@@ -4,7 +4,7 @@ title: "CBU Series"
 parent: Ground-Attack
 grand_parent: Munitions
 summary: Unguided cluster bomb unit
-used_by: "F-4J Phantom II"
+used_by: "F-4J Phantom II, A-1H Skyraider"
 ---
 
 # {{ page.title }}
@@ -29,7 +29,10 @@ The **CBU Series** stands for cluster bomb units. They release smaller submuniti
 
 | Designation | Payload | Additional Info |
 | :--------: | :----: | :------------: |
+| CBU-14 | (x?) BLU-3/B | Dispenses small bomblets |
+| CBU-22 | (x?) BLU-3/B | Dispenses small bomblets |
 | CBU-24 CEM | (x665) BLU-26/BLU-36 frag | The CEM means it has a combined shaped charge, fragmentation and incendiary effect on the target. |
+| CBU-25 | (x?) BLU-3/B | Dispenses small bomblets |
 | CBU-75 Sadeye | (x1800) BLU-26 | Approx lethal range of over double a regular 2000-lb. bomb or 157 football pitches equivalent. |
 | CBU-100 Rockeye | (x247) MK 118 Mod 1 | Primarily an anti-tank weapon, the Rockeye is a high-explosive, high-penetration, high-fragmentation cluster bomb. |
 | CBU-32A Clustermine | Anti-personnel mines | Leaves a large amount of **Anti-Personnel** cluster mines behind. |

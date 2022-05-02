@@ -4,7 +4,7 @@ title: "Mk 80 Series"
 parent: Ground-Attack
 grand_parent: Munitions
 summary: A general-purpose, unguided, air-dropped bomb.
-used_by: "F-4J Phantom II"
+used_by: "F-4J Phantom II, A-1H Skyraider"
 ---
 
 # {{ page.title }}
