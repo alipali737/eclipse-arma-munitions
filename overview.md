@@ -17,10 +17,9 @@ This documentation contains all the useful knowledge for the arma campaigns.
 {% endfor %}
 
 ## Helicopters
-{% assign helicopter = site.pages | where:"parent","Helicopters" %}
+{% assign helicopters = site.pages | where:"parent","Helicopters" %}
 | Helicopter | Summary |
 | :---: | :---: |
-| | |
 {% for helicopter in helicopters -%}
 | [{{ helicopter.title }}]({{ helicopter.url | relative_url }}) | {{ helicopter.summary }} |
 {% endfor %}
