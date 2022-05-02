@@ -29,7 +29,7 @@ This aircraft is an old aircraft developed in the 1940s as a single-seat, long-r
 
 | Role | Availability |
 |:-----:|:------------:|
-| Fighter | ✔️ |
+| Fighter | ❌ |
 | Ground Attack | ✔️ |
 | Bomber | ✔️ |
 | Reconnaissance | ✔️ |

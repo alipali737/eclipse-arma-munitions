@@ -14,15 +14,16 @@ This documentation contains all the useful knowledge for the arma campaigns.
 | :---: | :---: |
 {% for plane in planes -%}
 | [{{ plane.title }}]({{ plane.url | relative_url }}) | {{ plane.summary }} |
-{%- endfor %}
+{% endfor %}
 
 ## Helicopters
 {% assign helicopter = site.pages | where:"parent","Helicopters" %}
 | Helicopter | Summary |
 | :---: | :---: |
+| | |
 {% for helicopter in helicopters -%}
 | [{{ helicopter.title }}]({{ helicopter.url | relative_url }}) | {{ helicopter.summary }} |
-{%- endfor %}
+{% endfor %}
 
 ## Missiles
 
