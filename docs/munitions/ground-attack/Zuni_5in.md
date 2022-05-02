@@ -4,7 +4,7 @@ title: "Zuni 5in"
 parent: Ground-Attack
 grand_parent: Munitions
 summary: American unguided folding-fin aircraft rocket (FFAR)
-used_by: "F-4J Phantom II, A-1H Skyraider"
+used_by: "F-4J Phantom II, A-1H Skyraider, A-7D Corsair II"
 ---
 
 # {{ page.title }}

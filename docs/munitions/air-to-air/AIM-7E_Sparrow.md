@@ -4,7 +4,7 @@ title: "AIM-7E Sparrow"
 parent: Air-to-Air
 grand_parent: Munitions
 summary: A medium-range, semi-active radar homing air-to-air missile.
-used_by: "F-4J Phantom II"
+used_by: "F-4J Phantom II, A-7D Corsair II"
 ---
 
 # {{ page.title }}

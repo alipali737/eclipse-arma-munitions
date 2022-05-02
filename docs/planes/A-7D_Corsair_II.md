@@ -1,27 +1,27 @@
 ---
 layout: page
-title: A-1H Skyraider
+title: A-7D Corsair II
 parent: Planes
-summary: American piston-engine, single-seat attack aircraft used from 1946 to early 1980s.
+summary: American carrier-capable light attack aircraft.
 ---
 
 # {{ page.title }}
-This aircraft is an old aircraft developed in the 1940s as a single-seat, long-range, high performance dive/torpedo bomber attack aircraft. It is powered by a piston-engine propeller but is still a very capable aircraft for its age.
+The **A-7D Corsair II** is a single-seat carrier-capable light attack aircraft that can be used for close air support or air-to-air combat operations.
 
-![{{ page.title }} Top Down]({{ site.baseurl }}/assets/A-1H_Skyraider/top_down.jpg)
+![{{ page.title }} Top Down]({{ site.baseurl }}/assets/A-7D_Corsair_II/top_down.jpg)
 
 ### Vehicle Specifications
 
 | Stat | Value |
 |:-----:|:-----:|
 | Nationality | American |
-| Speed Class | Propeller |
-| Engine Class | Propeller |
+| Speed Class | Subsonic |
+| Engine Class | Jet |
 | Airbrake | ✔️ |
-| Active Radar | ❌ |
+| Active Radar | ✔️ |
 | Seats | 1 |
-| Takeoff Speed | 100 km/h |
-| Landing Speed | 90 km/h |
+| Takeoff Speed | 180 km/h |
+| Landing Speed | 140 km/h |
 | Tailhook | ✔️ |
 | Retract Wings | ✔️ |
 
@@ -29,16 +29,16 @@ This aircraft is an old aircraft developed in the 1940s as a single-seat, long-r
 
 | Role | Availability |
 |:-----:|:------------:|
-| Fighter | ❌ |
+| Fighter | ✔️ |
 | Ground Attack | ✔️ |
 | Bomber | ✔️ |
-| Reconnaissance | ✔️ |
+| Reconnaissance | ❔ |
 | Transport | ❌ |
 | Cargo | ❌ |
 
 # Vehicle Pylons
 
-![{{ page.title }}} Pylons]({{ site.baseurl }}/assets/A-1H_Skyraider/pylons.jpg)
+![{{ page.title }}} Pylons]({{ site.baseurl }}/assets/A-7D_Corsair_II/pylons.jpg)
 
 {%- assign munitions = "" | split: "" -%}
 

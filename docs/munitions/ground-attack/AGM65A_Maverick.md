@@ -4,7 +4,7 @@ title: "AGM-65A Maverick"
 parent: Ground-Attack
 grand_parent: Munitions
 summary: An air-to-ground missile designed for close air support against armoured targets.
-used_by: "F-4J Phantom II"
+used_by: "F-4J Phantom II, A-7D Corsair II"
 ---
 
 # {{ page.title }}
