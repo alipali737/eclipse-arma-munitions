@@ -4,7 +4,7 @@ title: "SUU11/A Minigun"
 parent: Ground-Attack
 grand_parent: Munitions
 summary: A single GAU-2 7.62x51mm Minigun firing 6,000 rounds per minute.
-used_by: "A-1H Skyraider"
+used_by: "A-1H Skyraider, O-2A Skymaster"
 ---
 
 # {{ page.title }}
